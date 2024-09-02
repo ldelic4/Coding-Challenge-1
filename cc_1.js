@@ -15,3 +15,17 @@ const productdetails = {
    instock = 231
 }
 console.log(orderitems, productdetails);
+
+//Task 3: Assignment Operators
+{let accountbalance = "322,839";
+accountbalance += amount 342;
+accountbalance -= amount 2343;
+accountbalance *= amount 12;
+accountbalance /= amount 2030;
+
+%= accountbalance;}
+
+
+
+
+
