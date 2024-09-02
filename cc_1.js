@@ -35,6 +35,13 @@ employeescore1>=employeescore2 = false;
 employeescore1 !== employeescore2
 
 
+//Task 5: Logical Operators
+employeescore1= "haskeycard" && "haspermission";
+employeescore2 = "haskeycard" || "haspermission";
+employeescore1 ="haskeycard"!;
+
+console.log(haskeycard, haspermission)
+
 
 
 
