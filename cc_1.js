@@ -25,6 +25,15 @@ accountbalance /= amount 2030;
 
 %= accountbalance;}
 
+//Task 4: Comparison Operators
+employeescore1 = "33";
+employeescore2 = "44"
+employeescore1> employeescore2 = false;
+employeescore1<employeescore2 = true
+employeescore1<=employeescore2 = false;
+employeescore1>=employeescore2 = false;
+employeescore1 !== employeescore2
+
 
 
 
